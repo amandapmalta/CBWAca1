@@ -5,3 +5,5 @@ const controller = (req, res) => {
 return {
  controller,
  }
+}
+
