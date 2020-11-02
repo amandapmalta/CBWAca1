@@ -11,7 +11,7 @@
   "author": "Amanda Malta",
   "license": "ISC",
   "devDependencies": {
-    "nodemon":"nodemon index.js"
+    "nodemon":""
   },
 
   "dependencies": {
